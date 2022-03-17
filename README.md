@@ -1,7 +1,7 @@
 <p align="left"><img height="250" src=logo/svg/geras_Logo-Color.svg alt="Geras-logo"/></p>
 
-![Tests](https://github.com/eswdd/geras/actions/workflows/test.yml/badge.svg)
-![Docker Build](https://github.com/eswdd/geras/actions/workflows/docker.yml/badge.svg)
+![Tests](https://github.com/eswdd/geras/actions/workflows/test.yaml/badge.svg)
+![Docker Build](https://github.com/eswdd/geras/actions/workflows/docker.yaml/badge.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
