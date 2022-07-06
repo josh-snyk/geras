@@ -24,7 +24,7 @@ go install -ldflags ' \
   ./cmd/geras
 
 # final stage
-FROM alpine:3.15
+FROM alpine:3.16
 LABEL org.opencontainers.image.description="Geras: Thanos Store API for OpenTSDB"
 LABEL org.opencontainers.image.source="https://github.com/G-Research/geras"
 LABEL org.opencontainers.image.vendor="G-Research"
